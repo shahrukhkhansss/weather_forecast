@@ -1,0 +1,1 @@
+ C:\\Users\\Twin\\StudioProjects\\weather_app\\.dart_tool\\flutter_build\\192d372d55299548846acf38885fef08\\native_assets.json: 
